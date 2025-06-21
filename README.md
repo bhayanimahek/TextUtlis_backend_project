@@ -30,9 +30,10 @@ This project was built to demonstrate form handling, conditional logic, and text
 
 ## 📷 Screenshots
 
-> _(Add your screenshots here if available)_  
-You can upload image files to your repo and embed them like:
-```markdown
-![Homepage Screenshot](screenshots/homepage.png)
+![Screenshot 2025-06-21 105226](https://github.com/user-attachments/assets/60f5b9d0-793b-4c23-a788-2905f21bee04)
+![Screenshot (120)](https://github.com/user-attachments/assets/b1fc7ab9-583a-42e3-a694-5a3523d09d56)
+
+
+
 
 
